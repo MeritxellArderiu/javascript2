@@ -1,2 +1,1 @@
-# javascript2
-javascript 2
+# Javascript2 - exercises
